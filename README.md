@@ -1,4 +1,4 @@
-# Hello, World! I'm Kaden Suderman.
+# Hello! I'm Kaden Suderman.
 I'm a Computer Vision and Embedded Systems Engineer with a knack for turning complex algorithms into real-world applications. I recently completed my Master's in Electronic & Computer Engineering from the University of Galway, where I achieved First Class Honors.
 
 ## What I Do
